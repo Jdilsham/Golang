@@ -14,7 +14,7 @@ func main() {
 }
 
 func performGetRequest() {
-	const myurl = "https://www.google.com"
+	const myurl = "http://localhost:8080/hello"
 
 	response, err := http.Get(myurl)
 	if err != nil {
