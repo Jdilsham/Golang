@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cd836981-4f57-44c0-818b-9a0814aa9f8c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/MOD/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MOD/static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/API/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,12 +59,37 @@
     &quot;run.configurations.included.in.services&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Go Build.go build github.com/janitha2222/MOD">
+  <component name="RunManager" selected="Go Build.go build main.go (1)">
     <configuration name="go build github.com/janitha2222/MOD" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Golang" />
       <working_directory value="$PROJECT_DIR$/MOD" />
       <kind value="PACKAGE" />
       <package value="github.com/janitha2222/MOD" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/MOD/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build github.com/janitha2222/MOD" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Golang" />
+      <working_directory value="$PROJECT_DIR$/MOD" />
+      <kind value="PACKAGE" />
+      <package value="github.com/janitha2222/MOD" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/MOD/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Golang" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/API/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Golang" />
+      <working_directory value="$PROJECT_DIR$/MOD" />
+      <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$/MOD/main.go" />
       <method v="2" />
@@ -80,6 +104,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build main.go (1)" />
         <item itemvalue="Go Build.go build github.com/janitha2222/MOD" />
         <item itemvalue="Go Build.go build main.go" />
       </list>
